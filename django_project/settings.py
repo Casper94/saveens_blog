@@ -25,7 +25,7 @@ SECRET_KEY = 'lvqiwn&maj1%ecq_l#f=wt(ib(@k#=^(25-o39=7ctcwt49km7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'saveensblog.herokuapp.com']
 
 
 # Application definition
